@@ -1,5 +1,5 @@
 # statamic-neighbors
-A statamic 2.0 tag pair to turn those replicator and bard sets into friendly neighbors.
+A statamic 2.0 tag pair to turn those replicator and bard sets into friendly neighbors. Hidey ho!
 
 Copy `Neighbors` folder into `/site/addons/`.
 
@@ -105,4 +105,4 @@ evergreen_terrace:
 
 ---
 
-If you have any questions or comments, have a suggestion on how to make my code better, feel free to reach out.
+If you have any questions, issues, or any suggestion on how to make my code better, feel free to reach out.
